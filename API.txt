@@ -1,0 +1,15 @@
+[POST] /stations
+
+http://api.openweathermap.org/data/3.0/stations
+
+{
+    "id": "433f81674e150ee2f9d5639e68b8a8b1",
+    "created_at": "2016-11-22T12:15:25.967Z",
+    "updated_at": "2016-11-22T12:15:25.967Z",
+    "external_id": "SF_TEST001",
+    "name": "San Francisco Test Station",
+    "longitude": -122.43,
+    "latitude": 37.76,
+    "altitude": 150,
+    "rank": 0
+}
